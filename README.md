@@ -20,5 +20,5 @@ MIT
 ```
 
 ## Authors:
-https://github.com/aleksanderbies
+https://github.com/aleksanderbies </br>
 https://github.com/AdamBarczyk
