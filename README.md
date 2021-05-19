@@ -18,3 +18,7 @@ MIT
 ```diff 
 + COMPLETE
 ```
+
+## Authors:
+https://github.com/aleksanderbies
+https://github.com/AdamBarczyk
